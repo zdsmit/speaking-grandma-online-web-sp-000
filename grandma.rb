@@ -2,10 +2,6 @@
 def speak_to_grandma(text)
   if text == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
-  elsif text.lowercase
-    puts "HUH?! SPEAK UP SONNY!"
-  else
-    puts "NO, NOT SINCE 1938!"
   end
 end
 # Whatever you say to grandma, she should respond with
